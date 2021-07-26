@@ -1,0 +1,13 @@
+---
+---
+
+@import "minima";
+
+.site-title::before {
+  content: url("/assets/openchia_icon.png");
+  display: inline-block;
+  position: relative;
+  width: 40px;
+  height: 29px;
+  top: 5px;
+}
