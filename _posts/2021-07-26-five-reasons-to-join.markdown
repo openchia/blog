@@ -2,7 +2,6 @@
 layout: post
 title:  "5 reasons to join OpenChia"
 date:   2021-07-26 17:30:08 -0300
-categories: update
 ---
 Why join OpenChia?
 

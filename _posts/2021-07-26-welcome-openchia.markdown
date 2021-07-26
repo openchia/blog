@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to OpenChia.io Blog!"
 date:   2021-07-26 17:03:48 -0300
-categories: update
 ---
 Please let us introduce you our blog!
 
