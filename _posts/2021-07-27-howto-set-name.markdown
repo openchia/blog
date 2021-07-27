@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How-to set name in Explorer"
-date:   2021-07-26 22:10:08 -0300
+date:   2021-07-27 01:10:08 -0000
 ---
 
 Launcher ID is how a farmer is identified for each Plot NFT.
