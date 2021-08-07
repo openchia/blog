@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Uptime for Pool and Website"
+date:   2021-08-07 17:40:14 -0300
+---
+
+On Chia the uptime of a pool is not of critical importance because even if a pool is offline at the moment a block is rewarded it will be able to collect it afterwards.
+
+When a pool is offline only the partials that farmers send during that period will be missed, but so will for everyone else as well. Shares to be distributed will remain the same.
+
+Even with all that said, we strive for keeping our services online to the best of our ability, hosting it in the cloud, providing redundancy and backups.
+
+We are making our uptime status available through a 3rd-party service, which can be found [here][1].
+
+As always, please let us know of any issues that may arise or any feature you would like to see through our [GitHub][2].
+
+[1]: https://stats.uptimerobot.com/wpq3oILq1R
+[2]: https://github.com/openchia/web/issues
