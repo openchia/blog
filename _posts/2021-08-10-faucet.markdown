@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Faucet (free Mojo/XCH) for mainnet"
+date:   2021-08-10 08:20:01 -0300
+---
+
+For anyone onboarding Chia it may be a barrier to understand how pools work and how to join one.
+
+We explained in [this post][1] how to join a pool, however due to how it was designed you need at least one Mojo (0.000000000001 XCH) to create a Plot NFT and be able to join pools. If you just got started with Chia you may not have that Mojo or a friend to give you one.
+
+Chia already offers a Faucet, which is a free service that sends a Mojo to any address.
+
+That service is limited to one Mojo per address for its entire lifetime.
+
+Even though its enough to create your Plot NFT it may not be enough if you want to have multiple Plot NFTs to split your farm for whatever reason.
+
+For that reason and also as a conveniance for our users we decided to create a Faucet service of our own, within our [Discord channel][2] to give away Mojos.
+
+Currently its limited to 1 Mojo per day (user or wallet address).
+
+If there is a need we may revise these settings in the future.
+
+To use the service simple use the [#faucet][2] channel on our Discord and type:
+
+    .faucet YOUR_XCH_WALLET_ADDRESS_HERE
+
+For example:
+
+![Faucet](/assets/2021-aug-10-faucet/faucet.png "Faucet")
+
+We hope this helps!
+
+As always, please let us know of any issues that may arise or any feature you would like to see through our [GitHub][3].
+
+[1]: https://blog.openchia.io/2021/07/27/change-pool.html
+[2]: https://discord.gg/9Pt2qKGxG3
+[3]: https://github.com/openchia/web/issues
