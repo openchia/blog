@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pool shutdown"
+date:   2025-08-30 16:40:01 -0300
+---
+
+As we have announced earlier this month the pool has been shutdown.
+All pending payments have been completed.
+
+If you have any issues and would like to contact us please reach out in [Discord][1].
+
+[1]: https://discord.gg/2URS9H7RZn
